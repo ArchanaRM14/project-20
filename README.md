@@ -1,2 +1,2 @@
-# project-20
-being in space
+# p5.play-boilerplate
+Boiler plate for p5.play
